@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "keywords": ["view", "template", "engine"],
   "dependencies": {
-    "component/reactive": "*",
+    "component/reactive": "0.14.1",
     "component/delegate": "*",
     "component/object": "*"
   },
